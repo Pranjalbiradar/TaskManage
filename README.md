@@ -44,8 +44,8 @@ taskmanager/
 
 ### 1. Clone the Repository
 bash
-git clone https://github.com/your-username/taskmanager.git
-cd taskmanager
+git clone https://github.com/Pranjalbiradar/taskmanage.git
+cd taskmanage
 
 
 ### 2. Update Database Configuration (optional)
